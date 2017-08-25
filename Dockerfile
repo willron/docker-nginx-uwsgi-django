@@ -1,4 +1,4 @@
-FROM python:3.5-alpine
+FROM python:2.7-alpine
 
 MAINTAINER "Zach Kazanski"
 LABEL project="docker-nginx-uwsgi-django"
